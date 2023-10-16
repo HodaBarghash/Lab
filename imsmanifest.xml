@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6XyCe9674S1" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_67z4kfNzKel" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="EG.G8.ESCI.SEM1.UA.T1.S2.4_(Lab)_ORG">
     <organization identifier="EG.G8.ESCI.SEM1.UA.T1.S2.4_(Lab)_ORG">
       <title>EG.G8.ESCI.SEM1.UA.T1.S2.4 (Lab)</title>
-      <item identifier="EG.G8.ESCI.SEM1.UA.T1.S2.4_(Lab)_SCO" isvisible="true" identifierref="__6XyCe9674S1_RES">
+      <item identifier="EG.G8.ESCI.SEM1.UA.T1.S2.4_(Lab)_SCO" isvisible="true" identifierref="__67z4kfNzKel_RES">
         <title>EG.G8.ESCI.SEM1.UA.T1.S2.4 (Lab)</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6XyCe9674S1_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__67z4kfNzKel_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5pTW8b7Xo7H.png" />
       <file href="mobile/5ZR5WfNOnju.png" />
@@ -119,6 +119,8 @@
       <file href="mobile/6WdAFacSj5N.png" />
       <file href="mobile/6gkjKYWcQ0K.png" />
       <file href="mobile/67QTtRvpZH0.png" />
+      <file href="mobile/5ovhPxVcwUO.png" />
+      <file href="mobile/5ovhPxVcwUO_X.png" />
       <file href="mobile/5jKNUu96KFN.png" />
       <file href="mobile/665maf3tuQX_P_897_45_1009_581.png" />
       <file href="mobile/66PUT7b7eGx.png" />
